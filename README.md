@@ -1,2 +1,0 @@
-# MPC
-# First attempt
